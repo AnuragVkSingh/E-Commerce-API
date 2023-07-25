@@ -12,4 +12,4 @@ mongoose.connect(mongoDB, {
 },).then(() => console.log('connected'))
     .catch((err) => { console.log(err); }); 
 
-//mongodb+srv://soumyasri2245:Soumya22%4034@cluster0.u2ywt3o.mongodb.net/?retryWrites=true&w=majority
+//mongodb+srv://anuragvsingh76:Anuragvsingh1107@cluster0.ql1espj.mongodb.net/?retryWrites=true&w=majority
