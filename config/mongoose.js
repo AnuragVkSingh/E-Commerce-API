@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const mongoose = require('mongoose');
-const mongoDB = "mongodb://127.0.0.1:27017/tododb";
+const mongoDB = "mongodb+srv://anurag:123@cluster0.c8zi0vi.mongodb.net/?retryWrites=true&w=majority";
 //const userModel=require('./config/mongoose')
 // the set flag to false if we want to ovveride the current strictqury behavior and pre
 //prare for the new elease.
